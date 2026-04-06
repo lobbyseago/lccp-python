@@ -1,0 +1,10 @@
+[project]
+name = "lccp"
+version = "0.0.0"
+description = "Lobster Configuration and Command-Line Parsing (LCCP)"
+readme = "README.md"
+license = { text = "UNLICENSED" }
+requires-python = ">=3.9"
+
+[project.urls]
+Repository = "https://github.com/lobbyseago/lccp-python"
